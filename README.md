@@ -9,4 +9,3 @@
 - 🌱 Trying learning all about **ReactJS**
 - 💬 Ping me about **development**, **software engineering**
 - 📫 Reach me: [twitter.com/eugenissimo](https://twitter.com/eugenissimo)
-- ⚡️ Fun fact: I hate Star Wars

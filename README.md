@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **GMF Saneamento**
+- 🏢 I'm currently working at **Spread Tecnologia**
 - ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.ts`
 - 🌱 Trying learning all about **Software Architecture**
 - 💬 Ping me about **Software Development**, **Software Engineering**
